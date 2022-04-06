@@ -18,7 +18,7 @@ class MainViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("hello")
     }
 
     // MARK: - Table view data source
